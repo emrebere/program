@@ -15,7 +15,7 @@
 # "import os" bruger jeg for at køre nogle Windows batch kommandoer som gør det overskueligt at kigge
 # på tekst på en CLI. "lambda" er en anonymt funktion der er nødvendigt for at bruge variablet som en funktion.
 
-# "try" og "except" er Pythons fejlsikker funktioner hvis en program støder ind i værdier som ikke er forventet.
+# "try" og "except" er Pythons exception handling funktioner hvis en program støder ind i værdier som ikke er forventet.
 
 # "isalpha()" er en funktion der tjekker hvis en string kun indeholder bogstaver.
 
