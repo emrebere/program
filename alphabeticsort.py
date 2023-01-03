@@ -1,7 +1,7 @@
 # Grundforløbsprøve programmeringsøvelse
 
 # Mindst 2 data typer: variablen "names" på linje 31 er en sequence (liste) type,
-# og i funktionen listinsert() på linje 51 bliver parameter variablen "num" brugt som en integer for range() funktionen.
+# og i funktionen listinsert() på linje 50 bliver parameter variablen "num" brugt som en integer for range() funktionen.
 
 # Mindst en if/switch sætning: if sætning bliver brugt i funktionen strvalid() på linje 43, og i funktionen sorter()
 # på linje 64.
