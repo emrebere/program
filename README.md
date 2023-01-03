@@ -8,7 +8,7 @@ på linje 64.
 
 Mindst en løkke: for løkken bliver brugt i funktionen listinsert() på linje 52.
 
-####################################################################################################################
+
 
 Der bliver brugt nogle usædvanlige funktioner i den her program, som forklares følgende:
 
